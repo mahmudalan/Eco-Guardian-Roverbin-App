@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Eco Guardian Roverbin</string>
+    <string name="facebook_app_id">1020479189016711</string>
+    <string name="fb_login_protocol_scheme">fb1020479189016711</string>
+    <string name="facebook_client_token">d8780e85d944e995a1111f34958d8e85</string>
+</resources>

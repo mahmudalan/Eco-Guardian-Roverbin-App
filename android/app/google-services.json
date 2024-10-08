@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "829604596982",
+    "firebase_url": "https://eco-guardian-roverbin-9e934-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eco-guardian-roverbin-9e934",
+    "storage_bucket": "eco-guardian-roverbin-9e934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829604596982:android:5ea24f2401eb38e7c1b0d7",
+        "android_client_info": {
+          "package_name": "com.example.eco_guardian_roverbin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829604596982-414lsmtmclpjf7vl400imbc07sq098f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp5z7LGfKejwiTmmzOYB2MRSuQgmJKit8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829604596982-414lsmtmclpjf7vl400imbc07sq098f5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829604596982-ei0vgbfg41l5oqfqmv5hnkmlvlihnde6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecoGuardianRoverbinApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
